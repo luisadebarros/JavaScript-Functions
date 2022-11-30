@@ -1,5 +1,5 @@
-# JavaScript-Functions
-Course about functions fundamentals eith JavaScript, doing in the plataform Cod3r
+# JavaScript - Functions Fundamentals
+Course about functions fundamentals with JavaScript, doing in the plataform Cod3r
 
 # Topics 
 - Fundamentals
@@ -10,5 +10,5 @@ Course about functions fundamentals eith JavaScript, doing in the plataform Cod3
 
 
 # Bibliography
-*Coder Plataform - https://www.cod3r.com.br/
+**Coder Plataform - https://www.cod3r.com.br/
   - course: "Fundamentos de JavaScripts Funcional"
